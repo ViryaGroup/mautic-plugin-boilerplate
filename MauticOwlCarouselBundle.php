@@ -4,7 +4,7 @@
  * @author      Douglas Saldana
  */
 
-namespace MauticPlugin\MauticCitrixBundle;
+namespace MauticPlugin\MauticOwlCarouselBundle;
 
 use Mautic\PluginBundle\Bundle\PluginBundleBase;
 
